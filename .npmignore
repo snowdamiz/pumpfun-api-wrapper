@@ -1,0 +1,26 @@
+# Claude files
+.claude/
+
+# Test files
+test/
+test-downloads/
+downloads/
+
+# Source maps
+*.map
+
+# Development files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Examples that might be too large for npm
+# Note: We're keeping examples as they're useful for users
