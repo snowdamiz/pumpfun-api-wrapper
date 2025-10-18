@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/pumpfun-api.git"
+    "url": "https://github.com/snowdamiz/pumpfun-api-wrapper.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/pumpfun-api/issues"
+    "url": "https://github.com/snowdamiz/pumpfun-api-wrapper/issues"
   },
-  "homepage": "https://github.com/your-username/pumpfun-api#readme"
+  "homepage": "https://github.com/snowdamiz/pumpfun-api-wrapper#readme"
 }
