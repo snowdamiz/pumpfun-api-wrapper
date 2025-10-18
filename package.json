@@ -1,0 +1,38 @@
+{
+  "name": "pumpfun-api",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper for the Pump.fun public APIs",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "example": "node examples/basic-usage.js"
+  },
+  "keywords": [
+    "pump.fun",
+    "solana",
+    "crypto",
+    "api",
+    "livestream",
+    "defi"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/pumpfun-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/pumpfun-api/issues"
+  },
+  "homepage": "https://github.com/your-username/pumpfun-api#readme"
+}
